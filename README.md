@@ -1,3 +1,5 @@
+![Pratyush Basu Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Pratyush%20Basu&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+
 # 👋 Hi, I'm Pratyush Basu  
 
 🚀 AI-ML Intern @ Capsitech IT Services Pvt. Ltd.  
