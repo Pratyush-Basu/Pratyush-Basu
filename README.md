@@ -1,31 +1,37 @@
-![Pratyush Basu Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Pratyush%20Basu&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Pratyush Basu Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=200&section=header&text=Pratyush%20Basu&fontSize=45&fontColor=000000&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20GenAI%20Enthusiast&descAlignY=60&descAlign=50)
 
 # 👋 Hi, I'm Pratyush Basu  
 
-🚀 AI-ML Intern @ Capsitech IT Services Pvt. Ltd.  
-🎓 B.Tech CSE Student @ FIEM, West Bengal  
-💡 Passionate about AI, ML, IoT & Smart Systems  
+🚀 AI-ML Intern @Capsitech IT Services Pvt. Ltd.  
+🎓 B.Tech CSE Student @FIEM, West Bengal  
+💡 Passionate about AI, ML, Gen-AI & Smart Systems  
 🌱 Exploring Generative AI and real-life ML applications  
 
 ---
 
 ## 🔧 Tech Stack  
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-444444?logo=c&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-444444?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+
+**AI / ML:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -41,27 +47,29 @@
 
 - Finalist of **Hackspire 2024** (12-hour hackathon)  
 - Top 8 in **FrostHack S01** (36-hour hackathon)  
-- Top 10 Finalist in **SparkHack 2025** @ Jadavpur University  
+- Top 10 Finalist in **SparkHack 2025** @Jadavpur University  
 
 ---
 
 ## 💼 Featured Projects  
 
 🚘 **Smart Parking Management System** – IoT + Computer Vision for real-time parking management  
-🛢 **Oil Spill Detection using AIS + Satellite Data** – Early detection of vessel distress & oil spills  
 🤖 **Intera AI** – AI-powered career platform with mock interviews, resume-based coding tasks, and voice-assistant  
 🧠 **Mental Health Prediction System** – ML-based prediction for professionals’ mental health  
 🥗 **Diet & Workout Planner** – AI buddy for personalized health plans  
 🍲 **Recipe Recommender (Indian + Global)** – Suggests recipes based on ingredients & preferences  
+💬 **Sentiment Analysis** – Natural Language Processing (NLP) model that analyzes text data and classifies emotions/opinions (positive, negative)  
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/pratyush-basu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-basu)  
 📧 **basupratyush76@gmail.com**  
 🌍 [Portfolio Website](https://pratyushbasuwebsite.vercel.app/)  
 
 ---
+
+![Kolkata - Howrah Bridge](https://upload.wikimedia.org/wikipedia/commons/5/59/Howrah_Bridge_at_night.jpg)  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pratyush-Basu&color=blue)  
