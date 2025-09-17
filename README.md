@@ -70,6 +70,6 @@
 
 ---
 
-![Howrah Bridge, Kolkata](https://depositphotos.com/367832328/stock-photo-howrah-bridge-historic-cantilever-bridge.html)
+![Howrah Bridge, Kolkata](https://upload.wikimedia.org/wikipedia/commons/1/12/Howrah_Bridge.jpg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pratyush-Basu&color=blue)  
