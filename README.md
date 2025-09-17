@@ -1,4 +1,5 @@
-![Pratyush Basu Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=200&section=header&text=Pratyush%20Basu&fontSize=45&fontColor=000000&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20GenAI%20Enthusiast&descAlignY=60&descAlign=50)
+<!-- Beautiful Banner -->
+![Pratyush Basu Banner](https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:DD2476&height=250&section=header&text=Pratyush%20Basu&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40)
 
 # 👋 Hi, I'm Pratyush Basu  
 
@@ -12,26 +13,26 @@
 ## 🔧 Tech Stack  
 
 **Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-444444?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-C-444444?logo=c&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="28"/>  
 
 **AI / ML:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="28"/>  
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="28"/> 
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="28"/>  
 
 ---
 
@@ -64,12 +65,18 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-basu)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pratyush-basu)  
 📧 **basupratyush76@gmail.com**  
 🌍 [Portfolio Website](https://pratyushbasuwebsite.vercel.app/)  
 
 ---
 
-![Kolkata - Howrah Bridge](https://upload.wikimedia.org/wikipedia/commons/5/59/Howrah_Bridge_at_night.jpg)  
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pratyush-Basu&color=blue)  
+
+---
+
+## 🌴 Special Corner  
+
+✨ Here’s a glimpse of **Kerala – God’s Own Country** (where technology meets nature 🌿):  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Backwaters_in_Kerala.jpg" alt="Kerala Backwaters" width="800"/>  
