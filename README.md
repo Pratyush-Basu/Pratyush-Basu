@@ -7,22 +7,14 @@
 ---
 
 ## 🚀 About Me
-```python
-# Who am I? Let me introduce myself in code! 🐍
 
-def pratyush_basu():
-    return {
-        "name": "Pratyush Basu",
-        "role": "AI-ML Intern @Capsitech IT Services Pvt. Ltd.",
-        "education": "B.Tech CSE Student @FIEM, West Bengal",
-        "passions": ["AI/ML", "Gen-AI", "Smart Systems", "Innovation"],
-        "current_focus": "Generative AI & Real-life ML Applications",
-        "fun_fact": "I debug with print statements and I'm not ashamed! 🐛",
-        "motto": "Thanks for dropping by! Let's build something amazing together! 🚀"
-    }
+**👨‍💻 Current Role:** AI-ML Intern @Capsitech IT Services Pvt. Ltd.  
+**🎓 Education:** B.Tech CSE Student @FIEM, West Bengal  
+**💡 Passions:** AI/ML, Gen-AI, Smart Systems, Innovation  
+**🌱 Focus:** Generative AI & Real-life ML Applications  
+**🐛 Fun Fact:** I debug with print statements and I'm not ashamed!  
 
-print(pratyush_basu())
-```
+> *"Thanks for dropping by! Let's build something amazing together! 🚀"*
 
 <div align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Data Science GIF"/>
