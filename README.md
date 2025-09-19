@@ -7,22 +7,21 @@
 ---
 
 ## 🚀 About Me
-
 ```python
-class PratyushBasu:
-    def __init__(self):
-        self.name = "Pratyush Basu"
-        self.role = "AI-ML Intern @Capsitech IT Services Pvt. Ltd."
-        self.education = "B.Tech CSE Student @FIEM, West Bengal"
-        self.passions = ["AI/ML", "Gen-AI", "Smart Systems", "Innovation"]
-        self.current_focus = "Generative AI & Real-life ML Applications"
-        self.fun_fact = "I debug with print statements and I'm not ashamed! 🐛"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+# Who am I? Let me introduce myself in code! 🐍
 
-me = PratyushBasu()
-me.say_hi()
+def pratyush_basu():
+    return {
+        "name": "Pratyush Basu",
+        "role": "AI-ML Intern @Capsitech IT Services Pvt. Ltd.",
+        "education": "B.Tech CSE Student @FIEM, West Bengal",
+        "passions": ["AI/ML", "Gen-AI", "Smart Systems", "Innovation"],
+        "current_focus": "Generative AI & Real-life ML Applications",
+        "fun_fact": "I debug with print statements and I'm not ashamed! 🐛",
+        "motto": "Thanks for dropping by! Let's build something amazing together! 🚀"
+    }
+
+print(pratyush_basu())
 ```
 
 <div align="center">
