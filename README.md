@@ -82,9 +82,7 @@
 </div>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratyush-Basu&theme=radical&rows=1&column=6" />
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Pratyush-Basu&theme=onedark)
 
 
 ---
