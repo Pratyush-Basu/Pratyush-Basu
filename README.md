@@ -72,7 +72,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-Basu&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pratyush-Basu&theme=radical)
+![](https://streak-stats.demolab.com?user=Pratyush-Basu)
+
 
 
 <div align="center">
