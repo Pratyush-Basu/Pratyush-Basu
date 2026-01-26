@@ -72,9 +72,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-Basu&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratyush-Basu&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pratyush-Basu&theme=radical" />
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyush-Basu&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Activity Graph"/>
