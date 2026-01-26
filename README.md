@@ -81,6 +81,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratyush-Basu&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Activity Graph"/>
 </div>
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Pratyush-Basu&theme=radical&row=1&column=6)
+
+
 ---
 
 ## 🏆 Achievements & Recognition
