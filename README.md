@@ -120,9 +120,8 @@
 
 <div align="center">
   
-<p align="center">
+
   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratyush-Basu&theme=github-dark&hide_border=true)
-</p>
 
 ### 💻 My Coding Journey in Memes
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Life"/>
