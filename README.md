@@ -72,7 +72,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-Basu&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-![](https://streak-stats.demolab.com?user=Pratyush-Basu&theme=radical)
+<p align="center">
+  <img width="420" src="https://streak-stats.demolab.com?user=Pratyush-Basu&theme=radical" />
+</p>
 
 
 <div align="center">
