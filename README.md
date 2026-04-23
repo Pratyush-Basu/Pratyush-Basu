@@ -9,11 +9,11 @@
 ## 🚀 About Me
 
 **👨‍💻 Current Role:** AI-ML Intern @SenseGrid AI Systems Pvt. Ltd.
-**💼 Previous Role:** AI-ML Intern @Capsitech IT Services Pvt. Ltd.
-**🎓 Education:** B.Tech CSE Student @FIEM, West Bengal  
-**💡 Passions:** AI/ML, Gen-AI, Smart Systems, Innovation  
-**🌱 Focus:** Generative AI & Real-life ML Applications  
-**🐛 Fun Fact:** I debug with print statements and I'm not ashamed!  
+**🏢 Previous Role:** AI-ML Intern @Capsitech IT Services Pvt. Ltd.
+**🎓 Education:** B.Tech CSE Student @FIEM, West Bengal
+**💡 Passions:** AI/ML, Gen-AI, Smart Systems, Innovation
+**🌱 Focus:** Generative AI & Real-life ML Applications
+**🐛 Fun Fact:** I debug with print statements and I'm not ashamed!
 
 > *"Thanks for dropping by! Let's build something amazing together! 🚀"*
 
