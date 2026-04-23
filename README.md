@@ -8,14 +8,12 @@
 
 ## 🚀 About Me
 
-<table>
-  <tr><td>👨‍💻</td><td><b>Current Role</b></td><td>AI-ML Intern @SenseGrid AI Systems Pvt. Ltd.</td></tr>
-  <tr><td>🏢</td><td><b>Previous Role</b></td><td>AI-ML Intern @Capsitech IT Services Pvt. Ltd.</td></tr>
-  <tr><td>🎓</td><td><b>Education</b></td><td>B.Tech CSE Student @FIEM, West Bengal</td></tr>
-  <tr><td>💡</td><td><b>Passions</b></td><td>AI/ML, Gen-AI, Smart Systems, Innovation</td></tr>
-  <tr><td>🌱</td><td><b>Focus</b></td><td>Generative AI & Real-life ML Applications</td></tr>
-  <tr><td>🐛</td><td><b>Fun Fact</b></td><td>I debug with print statements and I'm not ashamed!</td></tr>
-</table>
+<p>👨‍💻 <b>Current Role:</b> AI-ML Intern @SenseGrid AI Systems Pvt. Ltd.</p>
+<p>🏢 <b>Previous Role:</b> AI-ML Intern @Capsitech IT Services Pvt. Ltd.</p>
+<p>🎓 <b>Education:</b> B.Tech CSE Student @FIEM, West Bengal</p>
+<p>💡 <b>Passions:</b> AI/ML, Gen-AI, Smart Systems, Innovation</p>
+<p>🌱 <b>Focus:</b> Generative AI & Real-life ML Applications</p>
+<p>🐛 <b>Fun Fact:</b> I debug with print statements and I'm not ashamed!</p>
 
 > *"Thanks for dropping by! Let's build something amazing together! 🚀"*
 
