@@ -8,6 +8,7 @@
 
 ## 🚀 About Me
 
+**👨‍💻 Current Role:** AI-ML Intern @SenseGrid AI Systems Pvt. Ltd. 
 **👨‍💻 Previous Role:** AI-ML Intern @Capsitech IT Services Pvt. Ltd.  
 **🎓 Education:** B.Tech CSE Student @FIEM, West Bengal  
 **💡 Passions:** AI/ML, Gen-AI, Smart Systems, Innovation  
@@ -70,6 +71,7 @@
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>
 
@@ -90,6 +92,7 @@
 ![Cookiecutter](https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=python&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-2E6F95?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 
 </div>
